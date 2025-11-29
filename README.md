@@ -1,5 +1,10 @@
 ## Hi👋, I'm Ehab Emad
 
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,bootstrap,sass,git,github,vscode " />
+</p>
 <!--
 **EhabEmad9599/EhabEmad9599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
